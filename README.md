@@ -21,7 +21,7 @@ The Vault contract, worked to communicate consistently with TD through the IERC2
 Prior to plunging into the DeFi Realm, guarantee you have the accompanying:
 
 - Linux Working Framework
-- Torrential slide CLI
+- Avalanche CLI
 
 ### Establishment Steps
 
