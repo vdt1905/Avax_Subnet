@@ -29,10 +29,11 @@ Follow these moves toward set up the DeFi Domain climate:
 
 1. **Create Torrential slide Subnet:**
 
-   'torrential slide subnet make vansh'
+   `avalanche subnet create vansh`
+
 2. **Deploy Subnet:**
 
-   'torrential slide subnet send vansh'
+   `avalanche subnet deploy vansh`
 
 ### Arrange Metamask:
 
